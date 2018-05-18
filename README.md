@@ -19,7 +19,7 @@ If using conda:
 ```
 
 ## Setup the database
-Inject the dos-dataset.sql into a MariaDB or MySQL database previously created.
+Get the database at https://drive.google.com/open?id=1dek34WgmDwzC8D27_Ijt1Lq7F7qh9yy7 and inject it into a MariaDB or MySQL database previously created.
 
 ## Notebook
 Configure the fourth cell with your directory and database information. The seventh cell display the attack events,
