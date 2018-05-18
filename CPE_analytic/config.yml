@@ -1,0 +1,5 @@
+db_name: dbname
+db_user: dbuser
+db_port: dbport
+db_ip: dbip
+db_pwd: dbpwd
